@@ -1,0 +1,16 @@
+Systematische Klassifikation von Themenlabels für NLP-Analysen Bundestagsdebatten
+Im Rahmen eines NLP-Projekts zur Analyse von Bundestagsreden ist es notwendig, präzise Labels zu entwickeln, die eine konsistente Einordnung von Redebeiträgen ermöglichen. Diese Labels dienen als Basis für Trainingsdaten in Machine-Learning-Modellen, insbesondere im Bereich des Topic Modellings, und bilden die Grundlage zur Bewertung der Klassifikationsgenauigkeit. Um die Labels thematisch relevant und präzise zu gestalten, wurde die Ausschussstruktur des Deutschen Bundestags als Ausgangspunkt gewählt, da sie die zentralen politischen Themenfelder und die organisatorische Arbeitsteilung der parlamentarischen Tätigkeit widerspiegelt.
+Methodik: Systematische Entwicklung der Labels
+Die Entwicklung der Labels erfolgte in mehreren methodischen Schritten:
+Ausschussstruktur als Grundlage: Die ständigen Ausschüsse des Deutschen Bundestags repräsentieren die zentralen Handlungsfelder der deutschen Politik (z. B. Arbeit, Bildung, Umwelt). Diese Struktur wurde übernommen, um eine logische und thematisch breit gefächerte Grundlage für die Labels zu schaffen. Die Zuständigkeiten der Ausschüsse wurden den offiziellen Beschreibungen des Bundestags entnommen.
+Identifikation und Untergliederung der Zuständigkeiten: Jeder Ausschuss wurde analysiert, um seine spezifischen Themenbereiche (z. B. Arbeitsmarktpolitik, Sozialversicherung, Klimaschutz) abzuleiten. Diese Unterthemen wurden hierarchisch geordnet: Ausschüsse als Oberkategorien und deren spezifische Aufgaben als Unterkategorien.
+Ableitung und Organisation der Labels: Basierend auf den Ausschüssen wurden Labels systematisch entwickelt. Ziel war es, sowohl eine breite Abdeckung der Themenfelder zu gewährleisten als auch Details und Spezifika der Unterthemen festzuhalten. So konnten Redundanzen minimiert und eine klare thematische Trennung erreicht werden.
+Auslassen bestimmter Ausschüsse: Einige Ausschüsse wurden bewusst nicht berücksichtigt, da sie entweder prozessualer Natur sind, inhaltlich redundante Funktionen haben oder sich nicht für eine thematische Analyse eignen. Beispiele:
+Gemeinsamer Ausschuss: Nur im Verteidigungsfall aktiv.
+Haushaltsausschuss: Aufgaben weitgehend in den Ausschuss für Finanzen integriert.
+Petitionsausschuss: Fokus auf individuellen Anliegen, nicht auf übergreifenden politischen Themen.
+Vermittlungsausschuss und Hauptausschuss: Organisatorische Funktion ohne thematische Debatte.
+Wahlprüfungsausschuss und Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung: Primär juristisch und organisatorisch tätig.
+Zusammenführung und Reduktion der Labels: In einem iterativen Prozess wurden ursprünglich 68 Themenbereiche konsolidiert, da viele sich überschneiden oder schwer voneinander abzugrenzen waren. Dies erforderte händische Überlegungen, die auf thematischer Angleichung und der Entfernung von Redundanzen basierten. Beispielsweise wurden Unterthemen wie „Arbeitsmarktpolitik“ und „Rentenpolitik“ unter einer übergeordneten Kategorie „Arbeit und Soziales“ zusammengeführt. Ebenso wurden Überschneidungen im Bereich „Klima- und Energiepolitik“ durch Zusammenlegung bereinigt. Ergebnis dieses Prozesses sind optimierte, eindeutige Labels, die sowohl thematisch relevant als auch praktikabel für NLP-Analysen sind.
+
+

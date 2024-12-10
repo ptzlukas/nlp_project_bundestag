@@ -1,0 +1,68 @@
+"Arbeitsmarktpolitik (Arbeitslosengeld und -förderung, Mindestlohn und Tarifverträge)", Ausschuss für Arbeit und Soziales
+"Rentenpolitik (Altersversorgung, Rentenniveau und Rentenreformen)", Ausschuss für Arbeit und Soziales
+"Sozialversicherung (Kranken- und Pflegeversicherung, Unfallversicherung)", Ausschuss für Arbeit und Soziales
+"Inklusion (Teilhabe von Menschen mit Behinderungen, Barrierefreiheit)", Ausschuss für Arbeit und Soziales
+"Außenpolitik (Diplomatische Beziehungen, Friedensmissionen)", Auswärtiger Ausschuss
+"EU-Politik (Europäische Integration, Zusammenarbeit mit EU-Institutionen)", Auswärtiger Ausschuss
+"Entwicklungshilfe (Internationale Projekte, Armutsbekämpfung)", Auswärtiger Ausschuss
+"Bildungspolitik (Schulbildung und Lehrpläne, Berufsausbildung und Weiterbildung)", Ausschuss für Bildung, Forschung und Technikfolgenabschätzung
+"Hochschulpolitik (Finanzierung von Hochschulen, Wissenschafts- und Forschungsförderung)", Ausschuss für Bildung, Forschung und Technikfolgenabschätzung
+"Technikfolgenabschätzung (Digitalisierung und neue Technologien, Künstliche Intelligenz und Ethik)", Ausschuss für Bildung, Forschung und Technikfolgenabschätzung
+"Digitalisierung (Förderung der digitalen Infrastruktur)", Ausschuss für Digitales
+"Datenpolitik (Regulierung und Schutz digitaler Daten)", Ausschuss für Digitales
+"Innovationstechnologie (Blockchain, KI-Anwendungen)", Ausschuss für Digitales
+"Agrarpolitik (Förderung der Landwirtschaft, Subventionen)", Ausschuss für Ernährung und Landwirtschaft
+"Lebensmittelsicherheit (Kontrolle von Standards, Verbraucherinformation)", Ausschuss für Ernährung und Landwirtschaft
+"Tierschutz (Tierrechte, Nutztierhaltung)", Ausschuss für Ernährung und Landwirtschaft
+"Europäische Integration (Stärkung der EU-Institutionen)", Ausschuss für Europäische Union
+"Harmonisierung (Anpassung nationaler Gesetze an EU-Recht)", Ausschuss für Europäische Union
+"EU-Erweiterung (Betrachtung neuer Mitgliedsstaaten)", Ausschuss für Europäische Union
+"Familienförderung (Kinderbetreuung, Elternzeitregelungen)", Ausschuss für Familie, Senioren, Frauen und Jugend
+"Gleichstellung (Frauenrechte, Anti-Diskriminierung)", Ausschuss für Familie, Senioren, Frauen und Jugend
+"Kinderrechte (Kinderschutz, Jugendhilfe)", Ausschuss für Familie, Senioren, Frauen und Jugend
+"Steuerpolitik (Einkommensteuer und Unternehmensbesteuerung)", Ausschuss für Finanzen
+"Haushaltspolitik (Staatsschulden und Ausgabenpolitik)", Ausschuss für Finanzen
+"Finanzmarktregulierung (Banken- und Kapitalmarktkontrolle)", Ausschuss für Finanzen
+"Gesundheitspolitik (Gesundheitsversorgung und Krankenhauswesen, Prävention und Gesundheitsförderung)", Ausschuss für Gesundheit
+"Pharmapolitik (Arzneimittelsicherheit und -preise)", Ausschuss für Gesundheit
+"Pandemiebekämpfung (Infektionsschutz, Impfstrategien)", Ausschuss für Gesundheit
+"Sicherheitsfragen (Polizei und Verfassungsschutz, Terrorismusbekämpfung)", Ausschuss für Inneres und Heimat
+"Migration und Integration (Asylrecht, Flüchtlingspolitik)", Ausschuss für Inneres und Heimat
+"Heimatpolitik (Förderung von ländlichen Räumen, Denkmalschutz)", Ausschuss für Inneres und Heimat
+"Klimaschutz (CO₂-Neutralität und Erreichung der Klimaziele)", Ausschuss für Klimaschutz und Energie
+"Erneuerbare Energien (Solar-, Wind-, und Wasserkraft)", Ausschuss für Klimaschutz und Energie
+"Energieeffizienz (Verbesserung von Gebäudedämmung und Industrieprozessen)", Ausschuss für Klimaschutz und Energie
+"Kulturförderung (Denkmalschutz, Kulturelle Bildung)", Ausschuss für Kultur und Medien
+"Medienpolitik (Rundfunkgesetzgebung, Pressefreiheit)", Ausschuss für Kultur und Medien
+"Urheberrecht (Reform und Schutz geistigen Eigentums)", Ausschuss für Kultur und Medien
+"Menschenrechte (Förderung und Schutz internationaler Menschenrechte)", Ausschuss für Menschenrechte und humanitäre Hilfe
+"Humanitäre Hilfe (Katastrophenhilfe, Unterstützung bei bewaffneten Konflikten)", Ausschuss für Menschenrechte und humanitäre Hilfe
+"Antidiskriminierung (Maßnahmen zur Bekämpfung von Diskriminierung)", Ausschuss für Menschenrechte und humanitäre Hilfe
+"Gesetzgebung (Einführung neuer Gesetze im Bereich Strafrecht und Zivilrecht)", Ausschuss für Recht
+"Verfassungsfragen (Grundrechte, Föderalismus)", Ausschuss für Recht
+"Justizpolitik (Unabhängigkeit der Justiz, Digitalisierung der Gerichte)", Ausschuss für Recht
+"Sportförderung (Ausbau von Breitensport und Leistungssport)", Ausschuss für Sport
+"Integrität im Sport (Bekämpfung von Doping und Korruption)", Ausschuss für Sport
+"Großveranstaltungen (Organisation und Sicherheit von Sportevents)", Ausschuss für Sport
+"Tourismusförderung (Entwicklung von Infrastruktur für Reisen und Gastgewerbe)", Ausschuss für Tourismus
+"Nachhaltigkeit (Umweltverträglichkeit und Förderung von lokalem Tourismus)", Ausschuss für Tourismus
+"Internationaler Tourismus (Zusammenarbeit bei grenzüberschreitenden Reiseprojekten)", Ausschuss für Tourismus
+"Klimapolitik (CO₂-Reduktion, Emissionshandel)", Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
+"Naturschutz (Biodiversität und Artenvielfalt, Schutz von Wäldern und Gewässern)", Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
+"Nukleare Sicherheit (Endlagerung von Atommüll, Sicherheit von Kernkraftwerken)", Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
+"Verbraucherschutz (Lebensmittelsicherheit, Datenschutz und digitale Rechte)", Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
+"Infrastruktur (Ausbau von Straßen, Schienen und Häfen)", Ausschuss für Verkehr
+"Mobilitätswende (Förderung von Elektroautos und öffentlichem Verkehr)", Ausschuss für Verkehr
+"Luft- und Schifffahrt (Flugsicherheit, Schifffahrtsverkehr)", Ausschuss für Verkehr
+"Militärische Einsätze (Auslandseinsätze der Bundeswehr)", Ausschuss für Verteidigung
+"Rüstungspolitik (Beschaffung von Waffen und Ausrüstung)", Ausschuss für Verteidigung
+"Zivile Verteidigung (Cybersecurity, Katastrophenschutz)", Ausschuss für Verteidigung
+"Industriepolitik (Förderung von KMUs, Strukturwandel und Innovationsförderung)", Ausschuss für Wirtschaft
+"Handelspolitik (Außenhandel und Freihandelsabkommen, Exportkontrollen)", Ausschuss für Wirtschaft
+"Energiepolitik (Versorgungssicherheit, Erneuerbare Energien)", Ausschuss für Wirtschaft
+"Entwicklungshilfe (Unterstützung ärmerer Länder)", Ausschuss für Wirtschaftliche Zusammenarbeit und Entwicklung
+"Internationale Partnerschaften (Förderung globaler Zusammenarbeit)", Ausschuss für Wirtschaftliche Zusammenarbeit und Entwicklung
+"Nachhaltige Entwicklung (Projekte zur Armutsbekämpfung und Bildung)", Ausschuss für Wirtschaftliche Zusammenarbeit und Entwicklung
+"Wohnungsbau (Schaffung und Förderung von Wohnraum)", Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen
+"Stadtentwicklung (Nachhaltige Stadtplanung und Modernisierung)", Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen
+"Kommunalpolitik (Förderung kommunaler Infrastrukturprojekte)", Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen
